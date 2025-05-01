@@ -1,0 +1,36 @@
+To check the status of Repository
+
+git status
+
+To copy the repository into local machine git clone "HTTPS Link of Repository"
+
+To authenticate user for first time
+
+git config --global user.email "you@example.com"
+
+git config --global user.name "Your Name"
+
+git config --local-list
+
+git add --all
+
+I
+
+git add "FileName"
+
+git commit -m "Message"
+git commit -m "Message"
+
+git push
+
+git branch
+
+I
+
+git branch BRANCH_NAME
+
+git checkout March
+
+git push --set-upstream origin March
+
+git merge March
